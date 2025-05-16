@@ -63,5 +63,5 @@ Notes:
 * This script does return a plot for Time vs. ω, however depending on screen size, this plot may not show up properly.
 
 # Further Documentation
-* For ease of use and setup, this repo includes 2 PDFs, one of which is a operation guide, and the other is a systems report.
+* For ease of use and setup, this repo includes a PDFs, which is a code and systems analysis, which inlcudes a operation guide specific to our system.
 * It is unlikely that I will further update these scripts, since they were made for a course project.
