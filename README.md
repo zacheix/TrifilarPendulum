@@ -20,7 +20,7 @@ Parts:
 * Motor Driver: DM860I
 * Electromagnets: BDE-1716-12
 
-As this is just a git repo, all other system specs can be requested.
+As this is just a git repo, all other system specs can be requested or found in the Systems Analysis.
 
 # Script Specific Info
 This system utilized 3 modular scripts. Each are named after M5, our projects name. **All scripts were run on a Linux driven RPi5.**
