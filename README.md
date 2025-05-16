@@ -59,7 +59,7 @@ Libraries Needed:
 * periphery
 
 Notes:
-* This script does calculate settling time, however during testing, we found that this calculation occasionally returns extreme numbers. Feel free to comment this line out (Ln 196).
+* This script does calculate settling time, however during testing, we found that this calculation occasionally returns extreme numbers. Feel free to comment this line out (Ln 196), since it does not affect MOI.
 * This script does return a plot for Time vs. ω, however depending on screen size, this plot may not show up properly.
 
 # Further Documentation
